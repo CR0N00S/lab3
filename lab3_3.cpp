@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-   float x=2;
+   float x=6;
    float sum;
-   while(x<70){
+   while(x<20){
        sum=sum+(1/x);
        x=x+1;
    }
